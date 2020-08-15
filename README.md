@@ -24,4 +24,4 @@ dataSource = UITableViewDiffableDataSource<Section, String>(tableView: tableView
 Please open and see playground file which located at [here](https://github.com/yosshi4486/UITableViewCellRegistration/blob/main/MyPlayground.playground/Contents.swift)!
 
 ## Contribution
-We are wating your contribution!😍
+We are wating for your contribution!😍
